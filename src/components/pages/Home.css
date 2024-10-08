@@ -1,0 +1,59 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: auto;   
+  }
+  .table{
+    width: 50%;
+    border-collapse: collapse;
+    margin: auto;
+  }
+  h1 {
+    text-align: center;
+    color: #292c2f;
+  }
+  
+  nav {
+    background-color: #05d124;
+    padding: 10px;
+    margin-bottom: 20px;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 15px;
+  }
+  
+  nav a {
+    color: rgb(16, 228, 228);
+    text-decoration: none;
+  }
+  
+  table {
+    width: 50%;
+    border-collapse: collapse;
+    margin: auto;
+  }
+  #countriesTable {
+    width: 50%;
+  }
+  
+  thead {
+    background-color: #05d124;
+    color: white;
+  }
+  
+  td, th {
+    padding: 12px;
+    text-align: left;
+    border: 1px solid #c7ccd0;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #c7ccd0;
+  }
+    
